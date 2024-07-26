@@ -38,7 +38,7 @@ Backend Endpoints:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/timechain-explorer.git
+   git clone https://github.com/sameekruth27/timechain-explorer.git
 2. Install dependencies
    ```sh
    cd timechain-explorer
