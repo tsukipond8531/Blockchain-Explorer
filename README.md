@@ -41,7 +41,6 @@ Backend Endpoints:
    git clone https://github.com/sameekruth27/Blockchain-Explorer.git
 2. Install dependencies
    ```sh
-   cd timechain-explorer
    npm install
 3. Start the application
    ```sh
