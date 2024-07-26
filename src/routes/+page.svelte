@@ -103,7 +103,7 @@
       </div>
       <div class="flex justify-center md:justify-start">
         <!-- svelte-ignore a11y-img-redundant-alt -->
-        <img src="/image.png" alt="Description Image" class="w-full max-w-xs rounded-lg">
+        <img src="../image.png" alt="Description Image" class="w-full max-w-xs rounded-lg">
       </div>
     </div>
   </main>
