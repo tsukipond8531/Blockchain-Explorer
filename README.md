@@ -39,3 +39,10 @@ Backend Endpoints:
 1. Clone the repository
    ```sh
    git clone https://github.com/yourusername/timechain-explorer.git
+2. Install dependencies
+   ```sh
+   cd timechain-explorer
+   npm install
+3. Start the application
+   ```sh
+   npm start
